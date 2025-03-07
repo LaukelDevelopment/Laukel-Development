@@ -2,9 +2,14 @@
     box-sizing: border-box;
     font-family: raleway;
     color: #777;
+    background-color: #cfcfcf;
   }
 
 html, body {
 margin: 0;
 padding: 0;
+}
+
+main {
+    
 }
