@@ -9,11 +9,11 @@
 html, body {
 margin: 0;
 padding: 0;
-background-color: #cfcfcf;
+background-color: #f4f4f4;
 }
 
 main {
-    padding: 
+    padding: 2%;
 }
 
 .comp-name {
@@ -59,4 +59,8 @@ header {
 
 .main-nav li {
   padding:0 3%;
+}
+
+.mini-intro {
+  background-color: white;
 }
