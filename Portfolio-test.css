@@ -79,10 +79,7 @@ display: flex;
 text-align: center;
 justify-content: center;
 margin: 0 auto;
-padding-top: 20px;
+padding-top: 30px;
 }
 
-.active {
-  padding: 1000px;
-  text-decoration: underline;
-}   
+
