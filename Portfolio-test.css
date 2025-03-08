@@ -82,8 +82,9 @@ margin: 0 auto;
     margin-top: 30px;
     background-color: white;
     border-radius: 20px;
-    width: 50%; 
+    width: 30%; 
     max-width: 600px;
+    padding: 1em;
 }
 
 
