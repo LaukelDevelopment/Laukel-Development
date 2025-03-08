@@ -83,6 +83,10 @@ padding-top: 30px;
 }
 
 .kompetencer-wrapper {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 0 auto;
  padding: 2%;
  width: 70%;
  background-color: salmon;
