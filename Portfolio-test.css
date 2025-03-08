@@ -90,16 +90,22 @@ margin: 0 auto;
 
 .kompetencer-wrapper {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start; 
+    justify-content: space-between;
     margin: 2em auto;
     padding: 2%;
-    max-width: 40%;
+    max-width: 80%;
     background-color: white;
     color: black;
     border-radius: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
 }
+
+.storheds {
+    flex: 1; /* Sørger for, at hver "storheds"-div fylder lige meget plads */
+    margin: 0 10px; /* Tilføj lidt afstand mellem kolonner */
+}
+
 
 
 
