@@ -90,11 +90,10 @@ margin: 0 auto;
 
 .kompetencer-wrapper {
     display: flex;
-    align-items: flex-start; 
-    justify-content: space-between;
+    justify-content: space-between; 
     margin: 2em auto;
     padding: 2%;
-    max-width: 80%;
+    max-width: 80%; 
     background-color: white;
     color: black;
     border-radius: 20px;
@@ -102,11 +101,13 @@ margin: 0 auto;
 }
 
 .storheds {
-    flex: 1; /* Sørger for, at hver "storheds"-div fylder lige meget plads */
-    margin: 0 10px; /* Tilføj lidt afstand mellem kolonner */
+    flex: 0 0 45%; 
+    background-color: #f9f9f9; 
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    text-align: center;
 }
-
-
 
 
 .kompetencer-title {
