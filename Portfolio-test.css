@@ -79,7 +79,9 @@ display: flex;
 text-align: center;
 justify-content: center;
 margin: 0 auto;
-padding-top: 30px;
+margin-top: 30px;
+background-color: white;
+border-radius: white;
 }
 
 .kompetencer-wrapper {
@@ -91,6 +93,7 @@ padding-top: 30px;
  width: 70%;
  background-color: white;
  color: black;
+ border-radius: 20px
 }
 
 .kompetencer-title {
