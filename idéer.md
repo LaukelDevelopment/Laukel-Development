@@ -15,11 +15,12 @@ Alle idéer skrives her:
    - Copyright &copy; inklusive år (You know)
    - Kontakt os (Måske bare føre til Discord?)
    - Sociale medier links (Enten discord eller bare links til facebook, instagram startside)
- - **Login-form** (Optimistisk, i know - ❌) Burde inkludere:
+ - **Login-form** (Ikke noget der virker, selvfølgelig - ❌) Burde inkludere:
    - Brugernavn
    - Password
-   - Sign up
+   - Sign up (En ny fil hvor det bare er sådan noget "E-mail, Brugernavn, password, repeat password")
    - Forgot password (Bare link til en eller anden "Øv-bøv fil)
    - Submit (Gå tilbage til side)
+   
  
 
