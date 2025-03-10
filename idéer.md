@@ -11,7 +11,7 @@ Alle idéer skrives her:
    - En lille bar i toppen der går fra venstre ti højre (❌)
    - En lille bar i højre side der går fra top til bund (❌)
    - Et billede, En tekst, et link etc. der går fra at være lidt gennemsigtig og lidt mindre til at være normal (❌)
-   - [Se evt. denne artikel for at se alt det cool man kan](https://alvarotrigo.com/blog/css-animations-scroll/)
+   - Se evt. [denne](https://alvarotrigo.com/blog/css-animations-scroll/) artikel for at se alt det cool man kan
  - **Footer** (❌). Burde inkludere:
    - Copyright &copy; inklusive år (You know)
    - Kontakt os (Måske bare føre til Discord?)
