@@ -7,10 +7,10 @@ Alle idéer skrives her:
  - Kontakt - inkl. links til GH + andet (❌)
 
 ## Manglende features (Alle sider)
- - Hovedpunkt 1
-   - Underpunkt 1.1
-   - Underpunkt 1.2
-   - Underpunkt 1.2.1
+ - AOS (Animate on scroll - ❌). Der er 3 typer:
+   - En lille bar i toppen der går fra venstre ti højre (❌)
+   - En lille bar i højre side der går fra top til bund (❌)
+   - Et billede, En tekst, et link etc. der går fra at være lidt gennemsigtig og lidt mindre til at være normal (❌)
      
  - **Footer** (❌)
  - **Login-form** (Optimistisk, i know - ❌)
