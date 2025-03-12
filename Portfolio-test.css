@@ -18,7 +18,7 @@ main {
 
 .main-footer {
   background-color: #333;
-  color: white;
+  color: #ffffff;
   text-align: center;
   padding: 20px 0;
   font-size: 1em;
@@ -29,7 +29,6 @@ main {
 }
 
 .footer-content a {
-  color: #777;
   text-decoration: none; 
 }
 
