@@ -17,24 +17,24 @@ main {
 }
 
 .main-footer {
-  background-color: #333; /* Mørk baggrund */
-  color: white; /* Hvid tekst */
+  background-color: #333;
+  color: white;
   text-align: center;
   padding: 20px 0;
   font-size: 1em;
 }
 
 .footer-content p {
-  margin: 5px 0; /* Afstand mellem linjer */
+  margin: 5px 0;
 }
 
 .footer-content a {
-  color: #0d6efd; /* Blå farve til links */
-  text-decoration: none; /* Fjern understregning */
+  color: white;
+  text-decoration: none; 
 }
 
 .footer-content a:hover {
-  text-decoration: underline; /* Understregning ved hover */
+  text-decoration: underline;
 }
 
 .comp-name {
