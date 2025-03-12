@@ -16,33 +16,40 @@ main {
     padding: 2%;
 }
 
-footer {
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  border-top: 2px solid #717171;
-  background-color: #333333;
-  color: #717171;
-  text-align: center;
-  padding: 15px 0;
-  font-size: 14px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+.main-footer {
+    background-color: #333; /* Mørk baggrund for kontrast */
+    color: #fff; /* Lys tekst */
+    text-align: center;
+    padding: 20px 0; /* Giver luft omkring teksten */
+    font-family: Arial, sans-serif;
+    border-top: 2px solid #717171; /* Diskret topkant */
 }
 
-footer a {
-  color: #FFFFFF;
-  text-decoration: none;
-  margin: 0 10px;
-  font-weight: bold;
-  transition: color 0.3s;
+.main-footer p {
+    margin: 0;
+    color: #ccc; /* Lysere grå tekst for mindre vigtig information */
 }
 
-footer a:hover {
-  text-decoration: underline;
+.main-footer a {
+    color: #fff; /* Hvid tekst til links */
+    text-decoration: none; /* Fjerner understregning */
 }
+
+.main-footer a:hover {
+    text-decoration: underline; /* Understregning ved hover for effekt */
+}
+
+.main-footer nav ul {
+    list-style: none; /* Fjerner bulletpoints */
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+.main-footer nav ul li {
+    display: inline; /* Side om side layout */
+    margin: 0 5px;
+}
+
 
 .comp-name {
   text-align: center;
