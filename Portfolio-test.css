@@ -16,39 +16,6 @@ main {
     padding: 2%;
 }
 
-.main-footer {
-    background-color: #333; /* Mørk baggrund for kontrast */
-    color: #fff; /* Lys tekst */
-    text-align: center;
-    padding: 20px 0; /* Giver luft omkring teksten */
-    font-family: Arial, sans-serif;
-    border-top: 2px solid #717171; /* Diskret topkant */
-}
-
-.main-footer p {
-    margin: 0;
-    color: #ccc; /* Lysere grå tekst for mindre vigtig information */
-}
-
-.main-footer a {
-    color: #fff; /* Hvid tekst til links */
-    text-decoration: none; /* Fjerner understregning */
-}
-
-.main-footer a:hover {
-    text-decoration: underline; /* Understregning ved hover for effekt */
-}
-
-.main-footer nav ul {
-    list-style: none; /* Fjerner bulletpoints */
-    padding: 0;
-    margin: 10px 0 0;
-}
-
-.main-footer nav ul li {
-    display: inline; /* Side om side layout */
-    margin: 0 5px;
-}
 
 
 .comp-name {
