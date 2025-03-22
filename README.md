@@ -26,5 +26,5 @@ Inkludere animationer, effekter, information om os, vores projekter og Laukel De
 Skriv til [vores Discord](https://Discord.gg/Vores-discord)
 
 ## Screenshots
-
+![Test](Screenshot 2025-03-22 18.07.30.png)
 
