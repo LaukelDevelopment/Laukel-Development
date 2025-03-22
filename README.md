@@ -26,7 +26,7 @@ Inkludere animationer, effekter, information om os, vores projekter og Laukel De
 Skriv til [vores Discord](https://Discord.gg/Vores-discord)
 
 ## Screenshots
-![Test](hvad.png)
+![Test](Billeder/hvad.png)
 
 
 
